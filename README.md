@@ -1,5 +1,5 @@
-[![Go Reference](https://pkg.go.dev/badge/github.com/adminlove520/vulnDb-Notifier.svg)](https://pkg.go.dev/github.com/adminlove520/vulnDb-Notifier)
-[![Go Report Card](https://goreportcard.com/badge/github.com/adminlove520/vulnDb-Notifier)](https://goreportcard.com/report/github.com/adminlove520/vulnDb-Notifier)
+[![Go Reference](https://pkg.go.dev/badge/github.com/TreasureBoy99/vulnDb-Notifier.svg)](https://pkg.go.dev/github.com/TreasureBoy99/vulnDb-Notifier)
+[![Go Report Card](https://goreportcard.com/badge/github.com/TreasureBoy99/vulnDb-Notifier)](https://goreportcard.com/report/github.com/TreasureBoy99/vulnDb-Notifier)
 
 # vulnDb Notifier
 
@@ -16,7 +16,7 @@
 
 确保 Go 环境已正确配置
 ```
-go install github.com/adminlove520/vulnDb-Notifier/cmd/CVENotifier@latest
+go install github.com/TreasureBoy99/vulnDb-Notifier/cmd/CVENotifier@latest
 ```
 
 ## 使用方法
